@@ -1,2 +1,30 @@
-Last updated: 2026-09-15 17:19:20 WIB
-Last updated: 2026-09-15 17:23:10 WIB
+# dosenfolio
+
+
+
+## 📋 Overview
+
+This repository contains **496 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-15 18:35:27 WIB*
